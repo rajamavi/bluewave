@@ -1,0 +1,29 @@
+Which of the following is not an estimation technique?
+a.Global Efficiency Factor- Assumption of 100% productivity minus deficiencies
+b.Ballpark estimate/Shot in the dark-wild guess
+c.PERT estimate- average of 3 “per task” estimates
+d.Productivity Adjustment Percentage- Calculated overall productivity
+e.Comparative- using older work- multiplier for inflation
+f.Only A and C
+g.All listed are estimation techniques
+
+
+
+sudo dpkg -i /home/raja/Downloads/gcm-linux_amd64.2.0.886-symbols.tar.gz
+git-credential-manager configure
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/rajamavi/BLUEWAVEWORKSPACE.git
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:rajamavi/myschool.git
+git push -u origin main
